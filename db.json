@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "Tom",
+      "age": 34,
+      "password": "pass123",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "username": "Mark",
+      "age": "23",
+      "password": "pass123",
+      "isAdmin": true,
+      "id": 2
+    }
+  ],
+  "products": []
+}
